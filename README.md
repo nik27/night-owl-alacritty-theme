@@ -1,0 +1,1 @@
+# night-owl-alacritty-theme
