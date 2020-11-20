@@ -1,6 +1,7 @@
 # Night Owl for Alacritty
-
 ## **A port of Sarah Drasner’s [Night Owl VS Code theme](https://github.com/sdras/night-owl-vscode-theme) for Alacritty.**
+
+![Night Owl Theme](showcase.png)
 
 This repository includes both **Night Owl** and **Light Owl** themes.
 
